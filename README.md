@@ -1,2 +1,2 @@
 # WaiterAppKotlin
-Waiter for Android
+Waiter App Start-up for Android 
